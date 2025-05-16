@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/ubi-micro:9.5-1746002938
+FROM registry.access.redhat.com/ubi9/ubi-micro:9.6-1747318857
 
 LABEL name="Simple demo image"
 LABEL description="A container image for a demo"
